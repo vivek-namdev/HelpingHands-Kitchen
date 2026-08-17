@@ -1,4 +1,4 @@
-<h1 align="center">🍽️ HelpingHands Kitchen</h1>
+<h1 align="center">🍽️ HelpingHands Kitchen (Hackathon Project)</h1>
 
 <p align="center">
   <strong>Reducing food waste. Feeding communities.</strong>
